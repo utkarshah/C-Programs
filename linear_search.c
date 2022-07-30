@@ -28,3 +28,8 @@ if(i==n)
 	printf("Element not found\n");
 }
 }
+
+//Time Complexity
+//Best case: Element found at index 0 i.e. o(1)
+//worst case: Element found at index n i.e. o(n)
+//Average case: Sum of all cases / Number of cases = 1+2+3+....+n/n= n(n+1)/2*n= (n+1)/2 i.e. o((n+1)/2)
