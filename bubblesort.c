@@ -35,3 +35,6 @@ int main()
 	return 0;
 
 }
+//Time complexity
+//best case : o(n)
+//worst case: o(n^2)
